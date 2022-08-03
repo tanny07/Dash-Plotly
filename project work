@@ -1,0 +1,12 @@
+def DegreeOutput(name, degree):
+    if degree= 3 && name[-1]== 'a','i','e' :
+        print("User is a Female holding a Bachelors degree")
+
+    else:
+        print("User is a Male holding a Engineering degree")
+       
+name = int(input("Enter your name : "))
+degree = int((input("Enter total years of your degree : ")))
+DegreeOutput()
+
+
