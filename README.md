@@ -1,8 +1,8 @@
 # Data Visualization of IPL 
 
 ## Project setup
-  - conda create -y python=3.9 --name dv
-  - conda activate dv
+  - conda create -y python=3.9 --name myenv
+  - conda activate myenv
   - pip install -r requirements.txt
 
 ## Run Dashboard
